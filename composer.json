@@ -15,6 +15,12 @@
             "role": "Creator"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/traian-angheita/support.git"
+        }
+    ]
     "require": {
         "php": ">=5.6",
         "illuminate/support": ">=5.3",
